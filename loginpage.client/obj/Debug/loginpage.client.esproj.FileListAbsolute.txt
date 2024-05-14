@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\LoginPage\loginpage.client\obj\Debug\loginpage.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\bin\Debug\net8.0\LoginPage.EF.deps.json
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\bin\Debug\net8.0\LoginPage.EF.dll
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\bin\Debug\net8.0\LoginPage.EF.pdb
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\LoginPage.EF.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\LoginPage.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\LoginPage.EF.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\LoginPage.EF.AssemblyInfo.cs
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\LoginPage.EF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\LoginPage.EF.dll
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\refint\LoginPage.EF.dll
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\LoginPage.EF.pdb
+C:\Users\User\source\repos\LoginPage\LoginPage.EF\obj\Debug\net8.0\ref\LoginPage.EF.dll

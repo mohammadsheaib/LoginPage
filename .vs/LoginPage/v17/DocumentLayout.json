@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LoginPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7820EA72-3D4B-48B2-85AF-C89CD8ACB2D4}|LoginPage.Tests\\LoginPage.Tests.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.tests\\authenticationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7820EA72-3D4B-48B2-85AF-C89CD8ACB2D4}|LoginPage.Tests\\LoginPage.Tests.csproj|solutionrelative:loginpage.tests\\authenticationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|solutionrelative:loginpage.server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC5F26E-D670-484E-B8DF-88011B7E3376}|LoginPage.Business\\LoginPage.Business.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.business\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC5F26E-D670-484E-B8DF-88011B7E3376}|LoginPage.Business\\LoginPage.Business.csproj|solutionrelative:loginpage.business\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A3E88-617F-40F4-B1D9-688D9889A670}|LoginPage.EF\\LoginPage.EF.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.ef\\authenticationefdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A3E88-617F-40F4-B1D9-688D9889A670}|LoginPage.EF\\LoginPage.EF.csproj|solutionrelative:loginpage.ef\\authenticationefdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|solutionrelative:loginpage.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\src\\login\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\src\\login\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\src\\login\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\src\\login\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|solutionrelative:loginpage.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.server\\loginpage.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|solutionrelative:loginpage.server\\loginpage.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|solutionrelative:loginpage.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|solutionrelative:loginpage.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|solutionrelative:loginpage.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.server\\loginpage.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B1211098-AF7D-485B-9864-B60324D04007}|LoginPage.Server\\LoginPage.Server.csproj|solutionrelative:loginpage.server\\loginpage.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1A3E88-617F-40F4-B1D9-688D9889A670}|LoginPage.EF\\LoginPage.EF.csproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1A3E88-617F-40F4-B1D9-688D9889A670}|LoginPage.EF\\LoginPage.EF.csproj|solutionrelative:loginpage.ef\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|c:\\users\\user\\source\\repos\\loginpage\\loginpage.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B42F106B-80C8-4AD5-BD8B-03102F3D082A}|loginpage.client\\loginpage.client.esproj|solutionrelative:loginpage.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Tests\\AuthenticationTests.cs",
+              "RelativeDocumentMoniker": "LoginPage.Tests\\AuthenticationTests.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Tests\\AuthenticationTests.cs",
+              "RelativeToolTip": "LoginPage.Tests\\AuthenticationTests.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwD8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:45:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LoginPage.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LoginPage.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:21:36.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\login\\login.jsx",
+              "RelativeDocumentMoniker": "loginpage.client\\src\\login\\login.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\login\\login.jsx",
+              "RelativeToolTip": "loginpage.client\\src\\login\\login.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-13T04:55:55.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "LoginPage.Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "LoginPage.Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:56:37.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Business\\AuthenticationManager.cs",
+              "RelativeDocumentMoniker": "LoginPage.Business\\AuthenticationManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Business\\AuthenticationManager.cs",
+              "RelativeToolTip": "LoginPage.Business\\AuthenticationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:57:48.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationEFDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.EF\\AuthenticationEFDataManager.cs",
+              "RelativeDocumentMoniker": "LoginPage.EF\\AuthenticationEFDataManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.EF\\AuthenticationEFDataManager.cs",
+              "RelativeToolTip": "LoginPage.EF\\AuthenticationEFDataManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:37:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\Program.cs",
+              "RelativeDocumentMoniker": "LoginPage.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\Program.cs",
+              "RelativeToolTip": "LoginPage.Server\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:18:07.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\README.md",
+              "RelativeDocumentMoniker": "loginpage.client\\README.md",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\README.md",
+              "RelativeToolTip": "loginpage.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-14T05:12:18.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\nuget.config",
+              "RelativeDocumentMoniker": "loginpage.client\\nuget.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\nuget.config",
+              "RelativeToolTip": "loginpage.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T05:12:33.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\login\\login.css",
+              "RelativeDocumentMoniker": "loginpage.client\\src\\login\\login.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\login\\login.css",
+              "RelativeToolTip": "loginpage.client\\src\\login\\login.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-14T06:52:48.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\package-lock.json",
+              "RelativeDocumentMoniker": "loginpage.client\\package-lock.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\package-lock.json",
+              "RelativeToolTip": "loginpage.client\\package-lock.json",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T05:12:49.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.Server.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\LoginPage.Server.http",
+              "RelativeDocumentMoniker": "LoginPage.Server\\LoginPage.Server.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\LoginPage.Server.http",
+              "RelativeToolTip": "LoginPage.Server\\LoginPage.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-14T05:16:46.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginPage.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\appsettings.json",
+              "RelativeToolTip": "LoginPage.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T05:16:40.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoginPage.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\appsettings.Development.json",
+              "RelativeToolTip": "LoginPage.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T05:16:43.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\vite.config.js",
+              "RelativeDocumentMoniker": "loginpage.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\vite.config.js",
+              "RelativeToolTip": "loginpage.client\\vite.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T05:12:15.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\package.json",
+              "RelativeDocumentMoniker": "loginpage.client\\package.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\package.json",
+              "RelativeToolTip": "loginpage.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T05:12:11.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.Server",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\LoginPage.Server.csproj",
+              "RelativeDocumentMoniker": "LoginPage.Server\\LoginPage.Server.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\LoginPage.Server.csproj",
+              "RelativeToolTip": "LoginPage.Server\\LoginPage.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T07:16:58.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\index.html",
+              "RelativeDocumentMoniker": "loginpage.client\\index.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\index.html",
+              "RelativeToolTip": "loginpage.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-13T07:04:03.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.EF\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LoginPage.EF\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.EF\\AppDbContext.cs",
+              "RelativeToolTip": "LoginPage.EF\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:16:14.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "loginpage.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\main.jsx",
+              "RelativeToolTip": "loginpage.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-11T21:21:48.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LoginPage.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\LoginPage.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "LoginPage.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:21:35.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "loginpage.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\App.jsx",
+              "RelativeToolTip": "loginpage.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-11T21:21:39.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\index.css",
+              "RelativeDocumentMoniker": "loginpage.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginPage\\loginpage.client\\src\\index.css",
+              "RelativeToolTip": "loginpage.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-11T21:21:46.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

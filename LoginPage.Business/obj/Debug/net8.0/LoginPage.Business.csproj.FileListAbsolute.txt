@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\bin\Debug\net8.0\LoginPage.Business.deps.json
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\bin\Debug\net8.0\LoginPage.Business.dll
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\bin\Debug\net8.0\LoginPage.Business.pdb
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\bin\Debug\net8.0\LoginPage.EF.dll
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\bin\Debug\net8.0\LoginPage.EF.pdb
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\LoginPage.Business.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\LoginPage.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\LoginPage.Business.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\LoginPage.Business.AssemblyInfo.cs
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\LoginPage.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\LoginPag.D03A0619.Up2Date
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\LoginPage.Business.dll
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\refint\LoginPage.Business.dll
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\LoginPage.Business.pdb
+C:\Users\User\source\repos\LoginPage\LoginPage.Business\obj\Debug\net8.0\ref\LoginPage.Business.dll
